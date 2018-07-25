@@ -4,6 +4,7 @@
 # Our additions
 
 .idea/*
+venv/
 
 # User-specific stuff
 .idea/**/workspace.xml
